@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fragment1">Fragment 1 here, aloha</string>
+    <string name="button_frag_1">Show fragment 1</string>
+    <string name="fragment2">Now it\'s fragment 2!</string>
+    <string name="button_frag_2">Show fragment 2</string>
+    <string name="button_activity_2">Activity 2</string>
+    <string name="button_event">Fake event</string>
+    <string name="button_save">Save data</string>
+    <string name="input_placeholder">Input something</string>
+    <string name="notification_charging">Power connected</string>
+    <string name="notification_charging_fake">\"Power\" \"connected\"</string>
+</resources>

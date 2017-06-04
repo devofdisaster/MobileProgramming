@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Lab4</string>
+
+    <string name="fragment1">Fragment 1 zgłoś się</string>
+    <string name="button_frag_1">Pokaż fragment 1</string>
+    <string name="fragment2">A teraz fragment 2!</string>
+    <string name="button_frag_2">Pokaż fragment 2</string>
+    <string name="button_activity_2">Aktywność 2</string>
+    <string name="button_event">Spreparuj event</string>
+    <string name="button_save">Zapisz dane</string>
+    <string name="input_placeholder">Wpisz cokolwiek</string>
+    <string name="notification_charging">Podłączono do prądu</string>
+    <string name="notification_charging_fake">\"Podłączono\" do \"prądu\"</string>
+</resources>
