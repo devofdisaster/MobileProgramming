@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="StudentEditLabel">Edit student details</string>
+    <string name="DeleteStudentDialogTitle">Delete student?</string>
+    <string name="DeleteStudentDialogMessage">Are you sure you want to delete this student?</string>
+    <string name="UnassignGroupDialogTitle">Unassign group?</string>
+    <string name="UnassignGroupDialogMessage">Are you sure you want to remove the student from this group?</string>
+    <string name="DeleteDialogCancel">Cancel</string>
+    <string name="DeleteDialogConfirm">OK</string>
+    <string name="ChooseGroupDialogTitle">Pick a project group</string>
+    <string name="EditStudentNamePlaceholder">First name</string>
+    <string name="EditStudentSurnamePlaceholder">Last name</string>
+    <string name="EditStudentGroupsLabel">Project groups</string>
+    <string name="EditStudentSaveButtonLabel">Save</string>
+    <string name="NamesRequiredToast">Both names are required!</string>
+    <string name="ToastStudentDeleted">Student deleted!</string>
+    <string name="ToastStudentSaved">Student saved!</string>
+    <string name="ToastGroupAssigned">Student assigned to group!</string>
+    <string name="ToastGroupUnassigned">Student removed from group!</string>
+</resources>

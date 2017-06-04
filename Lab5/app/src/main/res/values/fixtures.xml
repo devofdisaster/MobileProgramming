@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="projectgroups">
+        <item>Server &amp; Devops</item>
+        <item>Mobile</item>
+        <item>Web</item>
+        <item>Native</item>
+        <item>Sales</item>
+        <item>Marketing</item>
+    </string-array>
+    <string-array name="firstnames">
+        <item>Wiktor</item>
+        <item>Smok</item>
+        <item>Tytus</item>
+        <item>Don</item>
+        <item>Baltazar</item>
+    </string-array>
+    <string-array name="lastnames">
+        <item>Traktor</item>
+        <item>Wawelski</item>
+        <item>de Zoo</item>
+        <item>Pedro</item>
+        <item>Gąbka</item>
+    </string-array>
+</resources>
