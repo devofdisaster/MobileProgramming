@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="MainButtonText">No siema</string>
+    <string name="CountButtonText">Get counter</string>
+</resources>
